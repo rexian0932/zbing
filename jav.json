@@ -1,189 +1,85 @@
 {
-  //https://github.com/bizhangjie/CatVodSpider 2024.8.1
-  //https://github.com/shichuanenhui/CatVodSpider18
-  "spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
-  "wallpaper": "https://gao.chuqiuyu.workers.dev",
+  "spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485"，
+  "wallpaper": "https://gao.chuqiuyu.workers.dev"，
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "🌕推荐┃豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "indexs": 1
-    },
-    //https://github.com/FongMi/CatVodSpider 2024.7.2
-    {
-      "key": "Doll",
-      "name": "🔞资源┃玩偶",
-      "type": 3,
-      "api": "csp_Doll",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
-    },
-    {
-      "key": "Eighteen",
-      "name": "🔞资源┃18Av",
-      "type": 3,
-      "api": "csp_Eighteen",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
-    },
-    {
-      "key": "Hanime",
-      "name": "🔞资源┃H動漫",
-      "type": 3,
-      "api": "csp_Hanime",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
-    },
-    {
-      "key": "Jable",
-      "name": "🔞资源┃Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
-    },
-    {
-      "key": "Miss",
-      "name": "🔞资源┃MissAv",
-      "type": 3,
-      "api": "csp_Miss",
-      "jar": "./jar/custom_spider.jar;md5;0c65550a61db9b03f6feb40aee1f9b07"
-    },
-    {
-      "key": "XMVideo",
-      "name": "🔞熊猫视频┃珍惜",
-      "type": 3,
+      "key": "XMVideo"，
+      "name": "🔞熊猫视频┃珍惜"，
+      "type": 3，
       "api": "csp_XMVideo"
-    },
+    }，
+    
     {
-      "key": "WWRR",
-      "name": "🔞我为人人┃珍惜",
-      "type": 3,
-      "api": "csp_WWRR"
-    },
-    {
-      "key": "J91",
-      "name": "🔞91┃珍惜",
-      "type": 3,
-      "api": "csp_J91"
-    },
-    {
-      "key": "Cg51",
-      "name": "🔞51吃瓜┃图密√",
-      "type": 3,
+      "key": "Cg51"，
+      "name": "🔞51吃瓜┃图密√"，
+      "type": 3，
       "api": "csp_Cg51"
-    },
+    }，
+    
     {
-      "key": "XVideos",
-      "name": "🔞XVideos┃珍惜",
-      "type": 3,
-      "api": "csp_XVideos"
-    },
-    {
-      "key": "MiMei",
-      "name": "🔞迷妹┃珍惜",
-      "type": 3,
+      "key": "MiMei"，
+      "name": "🔞迷妹┃珍惜"，
+      "type": 3，
       "api": "csp_MiMei"
-    },
+    }，
+    
     {
-      "key": "ROU223",
-      "name": "🔞223ROU┃视频",
-      "type": 3,
-      "api": "csp_ROU223"
-    },
-    {
-      "key": "HiPianZhiBo",
-      "name": "🔞嗨片直播┃视频",
-      "type": 3,
+      "key": "HiPianZhiBo"，
+      "name": "🔞嗨片直播┃视频"，
+      "type": 3，
       "api": "csp_HiPianZhiBo"
-    },
+    }，
+    
+    
     {
-      "key": "JJAiPian",
-      "name": "🔞久久爱片┃视频",
-      "type": 3,
-      "api": "csp_JJAiPian"
-    },
-    {
-      "key": "RouVideo",
-      "name": "🔞肉视频┃科学",
-      "type": 3,
-      "api": "csp_RouVideo"
-    },
-    {
-      "key": "*博天堂",
-      "name": "🔞博天堂",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php"
-    },
-    {
-      "key": "美少女",
-      "name": "🔞美少女",
-      "type": 0,
+      "key": "美少女"，
+      "name": "🔞美少女"，
+      "type": 0，
       "api": "https://www.msnii.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*淫水机资源",
-      "name": "🔞淫水机",
-      "type": 0,
+      "key": "*淫水机资源"，
+      "name": "🔞淫水机"，
+      "type": 0，
       "api": "https://www.xrbsp.com/api/xml.php"
-    },
+    }，
+    
+    
     {
-      "key": "*美少女资源",
-      "name": "🔞美少女资源",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php"
-    },
-    {
-      "key": "zp024",
-      "name": "🔞BT天堂-伦理",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php"
-    },
-    {
-      "key": "*KK写真资源",
-      "name": "🔞KK写真资源-伦理",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/"
-    },
-    {
-      "key": "zp059",
-      "name": "🔞番号资源",
-      "type": 0,
+      "key": "zp059"，
+      "name": "🔞番号资源"，
+      "type": 0，
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml"
-    },
+    }，
+    
     {
-      "key": "zp066",
-      "name": "🔞花椒资源",
-      "type": 0,
-      "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/"
-    },
-    {
-      "key": "zp100",
-      "name": "🔞乐播",
-      "type": 0,
+      "key": "zp100"，
+      "name": "🔞乐播"，
+      "type": 0，
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/"
-    },
+    }，
     {
-      "key": "zp123",
-      "name": "🔞色猫资源（慢）",
-      "type": 0,
+      "key": "zp123"，
+      "name": "🔞色猫资源（慢）"，
+      "type": 0，
       "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/"
-    },
+    }，
     {
-      "key": "*乐播资源",
-      "name": "🔞乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "key": "*乐播资源"，
+      "name": "🔞乐播资源"，
+      "type": 1，
+      "api": "https://lbapi9.com/api.php/provide/vod/"，
       "filterable": 0
-    },
+    }，
     {
-      "key": "zp137",
-      "name": "🔞探探资源（慢）",
-      "type": 0,
-      "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+      "key": "zp137"，
+      "name": "🔞探探资源（慢）"，
+      "type": 0，
+      "api": "https://apittzy.com/api.php/provide/vod/at/xml/"，
       "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="
-    },
+    }，
     {
-      "key": "wmcj8.com",
+      "key": "wmcj8.com"，
       "name": "成人07",
       "type": 0,
       "api": "http://wmcj8.com/inc/sapi.php"
