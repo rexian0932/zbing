@@ -80,166 +80,166 @@
     }，
     {
       "key": "wmcj8.com"，
-      "name": "成人07",
-      "type": 0,
+      "name": "成人07"，
+      "type": 0，
       "api": "http://wmcj8.com/inc/sapi.php"
-    },
+    }，
     {
-      "key": "💞博天堂💞",
-      "name": "💞博天堂💞",
-      "type": 0,
+      "key": "💞博天堂💞"，
+      "name": "💞博天堂💞"，
+      "type": 0，
       "api": "http://bttcj.com/inc/sapi.php"
-    },
+    }，
     {
-      "key": "💞美少女资源💞",
-      "name": "💞美少女资源💞",
-      "type": 0,
+      "key": "💞美少女资源💞"，
+      "name": "💞美少女资源💞"，
+      "type": 0，
       "api": "https://www.msnii.com/api/xml.php"
-    },
+    }，
     {
-      "key": "bttcj.com",
-      "name": "成人04",
-      "type": 0,
+      "key": "bttcj.com"，
+      "name": "成人04"，
+      "type": 0，
       "api": "http://bttcj.com/inc/sapi.php"
-    },
+    }，
     {
-      "key": "💞番号资源💞",
-      "name": "💞番号资源💞",
-      "type": 1,
+      "key": "💞番号资源💞"，
+      "name": "💞番号资源💞"，
+      "type": 1，
       "api": "http://fhapi9.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "💞探探资源💞",
-      "name": "💞探探资源💞",
-      "type": 1,
+      "key": "💞探探资源💞"，
+      "name": "💞探探资源💞"，
+      "type": 1，
       "api": "https://apittzy.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "feifei67.com",
-      "name": "成人22",
-      "type": 1,
+      "key": "feifei67.com"，
+      "name": "成人22"，
+      "type": 1，
       "api": "http://www.feifei67.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "💞老鸭资源💞",
-      "name": "💞老鸭资源💞",
-      "type": 1,
+      "key": "💞老鸭资源💞"，
+      "name": "💞老鸭资源💞"，
+      "type": 1，
       "api": "https://api.apilyzy.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "💞乐播资源💞",
-      "name": "💞乐播资源💞",
-      "type": 1,
+      "key": "💞乐播资源💞"，
+      "name": "💞乐播资源💞"，
+      "type": 1，
       "api": "https://lbapi9.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "msnii.com",
-      "name": "成人46",
-      "type": 0,
+      "key": "msnii.com"，
+      "name": "成人46"，
+      "type": 0，
       "api": "https://www.msnii.com/api/xml.php"
-    },
+    }，
     {
-      "key": "💞大地资源💞",
-      "name": "💞大地资源💞",
-      "type": 0,
+      "key": "💞大地资源💞"，
+      "name": "💞大地资源💞"，
+      "type": 0，
       "api": "https://dadiapi.com/api.php"
-    },
+    }，
     {
-      "key": "apittzy.com",
-      "name": "成人47",
-      "type": 1,
+      "key": "apittzy.com"，
+      "name": "成人47"，
+      "type": 1，
       "api": "https://apittzy.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "💞香奶儿资源💞",
-      "name": "💞香奶儿资源💞",
-      "type": 0,
+      "key": "💞香奶儿资源💞"，
+      "name": "💞香奶儿资源💞"，
+      "type": 0，
       "api": "https://www.gdlsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "api.maozyapi.com",
-      "name": "成人32",
-      "type": 1,
+      "key": "api.maozyapi.com"，
+      "name": "成人32"，
+      "type": 1，
       "api": "https://api.maozyapi.com/inc/apijson_vod.php"
-    },
+    }，
     {
-      "key": "lbapi9.com",
-      "name": "成人50",
-      "type": 1,
+      "key": "lbapi9.com"，
+      "name": "成人50"，
+      "type": 1，
       "api": "https://lbapi9.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "cjmygzy.com",
-      "name": "小美眉",
-      "type": 0,
+      "key": "cjmygzy.com"，
+      "name": "小美眉"，
+      "type": 0，
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist"
-    },
+    }，
     {
-      "key": "*环亚",
-      "name": "环亚",
-      "type": 0,
+      "key": "*环亚"，
+      "name": "环亚"，
+      "type": 0，
       "api": "http://wmcj8.com/inc/sapi.php?ac=videolist"
-    },
+    }，
     {
-      "key": "pwd_袜子",
-      "name": "袜子",
-      "type": 0,
+      "key": "pwd_袜子"，
+      "name": "袜子"，
+      "type": 0，
       "api": "https://www.msnii.com/api/xml.php"
-    },
+    }，
     {
-      "key": "💞白嫖资源💞",
-      "name": "💞白嫖资源💞",
-      "type": 0,
+      "key": "💞白嫖资源💞"，
+      "name": "💞白嫖资源💞"，
+      "type": 0，
       "api": "https://www.kxgav.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*AIvin",
-      "name": "AIvin",
-      "type": 0,
+      "key": "*AIvin"，
+      "name": "AIvin"，
+      "type": 0，
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-    },
+    }，
     {
-      "key": "kkzy.me",
-      "name": "成人51",
-      "type": 1,
+      "key": "kkzy.me"，
+      "name": "成人51"，
+      "type": 1，
       "api": "https://kkzy.me/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "api.apilyzy.com",
-      "name": "成人71",
-      "type": 1,
+      "key": "api.apilyzy.com"，
+      "name": "成人71"，
+      "type": 1，
       "api": "https://api.apilyzy.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "kxgav.com",
-      "name": "成人44",
-      "type": 0,
+      "key": "kxgav.com"，
+      "name": "成人44"，
+      "type": 0，
       "api": "https://www.kxgav.com/api/xml.php"
-    },
+    }，
     {
-      "key": "番号资源",
-      "name": "番号资源(卡切)",
-      "type": 1,
+      "key": "番号资源"，
+      "name": "番号资源(卡切)"，
+      "type": 1，
       "api": "http://fhapi9.com/api.php/provide/vod/at/json"
-    },
+    }，
     {
-      "key": "探探资源",
-      "name": "探探资源(切)",
-      "type": 1,
+      "key": "探探资源"，
+      "name": "探探资源(切)"，
+      "type": 1，
       "api": "https://apittzy.com/api.php/provide/vod"
-    },
+    }，
     {
-      "key": "💞淫水机资源💞",
-      "name": "💞淫水机资源💞",
-      "type": 0,
+      "key": "💞淫水机资源💞"，
+      "name": "💞淫水机资源💞"，
+      "type": 0，
       "api": "https://www.xrbsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "Sm",
-      "name": "Sm",
-      "type": 0,
+      "key": "Sm"，
+      "name": "Sm"，
+      "type": 0，
       "api": "https://api.maozyapi.com/inc/api.php"
-    },
+    }，
     {
       "key": "💞色猫资源💞",
       "name": "💞色猫资源💞",
@@ -365,124 +365,124 @@
     },
     {
       "key": "*色色资源",
-      "name": "*色色资源",
-      "type": 0,
+      "name": "*色色资源"，
+      "type": 0，
       "api": "http://secj8.com/inc/sapi.php?ac=videolist"
-    },
+    }，
     {
-      "key": "*JAV名优",
-      "name": "*JAV名优",
-      "type": 0,
+      "key": "*JAV名优"，
+      "name": "*JAV名优"，
+      "type": 0，
       "api": "http://mygzycj.com/api.php?ac=list"
-    },
+    }，
     {
-      "key": "*美少女资源",
-      "name": "*美少女资源",
-      "type": 0,
+      "key": "*美少女资源"，
+      "name": "*美少女资源"，
+      "type": 0，
       "api": "https://www.msnii.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*狼少年",
-      "name": "*狼少年",
-      "type": 0,
+      "key": "*狼少年"，
+      "name": "*狼少年"，
+      "type": 0，
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist"
-    },
+    }，
     {
-      "key": "*博天堂",
-      "name": "*博天堂",
-      "type": 0,
+      "key": "*博天堂"，
+      "name": "*博天堂"，
+      "type": 0，
       "api": "http://bttcj.com/inc/sapi.php"
-    },
+    }，
     {
-      "key": "bttcj",
-      "name": "*博天堂",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
+      "key": "bttcj"，
+      "name": "*博天堂"，
+      "type": 0，
+      "api": "http://bttcj.com/inc/sapi.php"，
       "playUrl": "https://jx.kujiexi.net/m3u8.php?url="
-    },
+    }，
     {
-      "key": "*天堂福利",
-      "name": "*天堂福利",
-      "type": 0,
-      "api": "http://bttcj.com/inc/sapi.php",
+      "key": "*天堂福利"，
+      "name": "*天堂福利"，
+      "type": 0，
+      "api": "http://bttcj.com/inc/sapi.php"，
       "filterable": 0
-    },
+    }，
     {
-      "key": "*CK资源",
-      "name": "*CK资源",
-      "type": 1,
+      "key": "*CK资源"，
+      "name": "*CK资源"，
+      "type": 1，
       "api": "http://www.feifei67.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "*番号资源",
-      "name": "*番号资源",
-      "type": 1,
+      "key": "*番号资源"，
+      "name": "*番号资源"，
+      "type": 1，
       "api": "http://fhapi9.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "*9号资源",
-      "name": "*9号资源",
-      "type": 0,
+      "key": "*9号资源"，
+      "name": "*9号资源"，
+      "type": 0，
       "api": "http://fhapi9.com/api.php/provide/vod/at/xml/"
-    },
+    }，
     {
-      "key": "*色猫资源",
-      "name": "*色猫资源",
-      "type": 1,
+      "key": "*色猫资源"，
+      "name": "*色猫资源"，
+      "type": 1，
       "api": "https://api.maozyapi.com/inc/apijson_vod.php"
-    },
+    }，
     {
-      "key": "*咪咪资源",
-      "name": "🔞咪咪资源",
-      "type": 0,
+      "key": "*咪咪资源"，
+      "name": "🔞咪咪资源"，
+      "type": 0，
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"
-    },
+    }，
     {
-      "key": "caiji25.com",
-      "name": "成人26",
-      "type": 0,
+      "key": "caiji25.com"，
+      "name": "成人26"，
+      "type": 0，
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"
-    },
+    }，
     {
-      "key": "99zy.pw",
-      "name": "成人25",
-      "type": 1,
+      "key": "99zy.pw"，
+      "name": "成人25"，
+      "type": 1，
       "api": "http://99zy.pw/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "91md.me",
-      "name": "成人19",
-      "type": 1,
+      "key": "91md.me"，
+      "name": "成人19"，
+      "type": 1，
       "api": "http://91md.me/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "💞99资源💞",
-      "name": "💞99资源💞",
-      "type": 1,
+      "key": "💞99资源💞"，
+      "name": "💞99资源💞"，
+      "type": 1，
       "api": "http://99zy.pw/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "dadiapi.com",
-      "name": "成人09",
-      "type": 0,
+      "key": "dadiapi.com"，
+      "name": "成人09"，
+      "type": 0，
       "api": "http://dadiapi.com/api.php"
-    },
+    }，
     {
-      "key": "sdszyapi.com",
-      "name": "成人20",
-      "type": 0,
+      "key": "sdszyapi.com"，
+      "name": "成人20"，
+      "type": 0，
       "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml"
-    },
+    }，
     {
-      "key": "*色屌丝资源",
-      "name": "*色屌丝资源",
-      "type": 0,
+      "key": "*色屌丝资源"，
+      "name": "*色屌丝资源"，
+      "type": 0，
       "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml"
-    },
+    }，
     {
-      "key": "*咪咪资源",
-      "name": "*咪咪资源",
-      "type": 0,
+      "key": "*咪咪资源"，
+      "name": "*咪咪资源"，
+      "type": 0，
       "api": "http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml"
     },
     {
@@ -554,222 +554,222 @@
     },
     {
       "key": "*99",
-      "name": "*99",
-      "type": 1,
+      "name": "*99"，
+      "type": 1，
       "api": "http://99zy.pw/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "*99资源",
-      "name": "*99资源",
-      "type": 1,
+      "key": "*99资源"，
+      "name": "*99资源"，
+      "type": 1，
       "api": "http://99zy.pw/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "*老鸭2",
-      "name": "*老鸭2",
-      "type": 0,
+      "key": "*老鸭2"，
+      "name": "*老鸭2"，
+      "type": 0，
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
-    },
+    }，
     {
-      "key": "*老鸭1",
-      "name": "*老鸭1",
-      "type": 1,
+      "key": "*老鸭1"，
+      "name": "*老鸭1"，
+      "type": 1，
       "api": "https://api.apilyzy.com/api.php/provide/vod/?ac=list"
-    },
+    }，
     {
-      "key": "*Sm",
-      "name": "*Sm",
-      "type": 0,
+      "key": "*Sm"，
+      "name": "*Sm"，
+      "type": 0，
       "api": "https://api.maozyapi.com/inc/api.php"
-    },
+    }，
     {
-      "key": "*饮水机",
-      "name": "*饮水机",
-      "type": 0,
+      "key": "*饮水机"，
+      "name": "*饮水机"，
+      "type": 0，
       "api": "https://www.xrbsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "KpgxdyE",
-      "name": "黄AV资源(已修复)",
-      "type": 0,
+      "key": "KpgxdyE"，
+      "name": "黄AV资源(已修复)"，
+      "type": 0，
       "api": "https://www.pgxdy.com/api/xml.php"
-    },
+    }，
     {
-      "key": "zp157",
-      "name": "🔞熊猫资源",
-      "type": 0,
+      "key": "zp157"，
+      "name": "🔞熊猫资源"，
+      "type": 0，
       "api": "http://jcspcj8.com/api?ac=list"
-    },
+    }，
     {
-      "key": "gdlsE",
-      "name": "香奶儿资源",
-      "type": 0,
+      "key": "gdlsE"，
+      "name": "香奶儿资源"，
+      "type": 0，
       "api": "https://www.gdlsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*热巴资源",
-      "name": "*热巴资源",
-      "type": 1,
+      "key": "*热巴资源"，
+      "name": "*热巴资源"，
+      "type": 1，
       "api": "http://reba.aishunxs.com/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "*白嫖",
-      "name": "*白嫖",
-      "type": 0,
+      "key": "*白嫖"，
+      "name": "*白嫖"，
+      "type": 0，
       "api": "https://www.kxgav.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*白嫖资源",
-      "name": "*白嫖资源",
-      "type": 0,
+      "key": "*白嫖资源"，
+      "name": "*白嫖资源"，
+      "type": 0，
       "api": "https://www.kxgav.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*黄AV",
-      "name": "*黄AV",
-      "type": 0,
+      "key": "*黄AV"，
+      "name": "*黄AV"，
+      "type": 0，
       "api": "https://www.pgxdy.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*淫水机资源",
-      "name": "*淫水机资源",
-      "type": 0,
+      "key": "*淫水机资源"，
+      "name": "*淫水机资源"，
+      "type": 0，
       "api": "https://www.xrbsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "xrbsp.com",
-      "name": "成人66",
-      "type": 0,
+      "key": "xrbsp.com"，
+      "name": "成人66"，
+      "type": 0，
       "api": "https://www.xrbsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "zp116",
-      "name": "*泡芙资源",
-      "type": 0,
+      "key": "zp116"，
+      "name": "*泡芙资源"，
+      "type": 0，
       "api": "http://zmcj88.com/api?ac=list"
-    },
+    }，
     {
-      "key": "*饮水机",
-      "name": "*饮水机",
-      "type": 0,
+      "key": "*饮水机"，
+      "name": "*饮水机"，
+      "type": 0，
       "api": "https://www.xrbsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*香奶儿",
-      "name": "*香奶儿",
-      "type": 0,
+      "key": "*香奶儿"，
+      "name": "*香奶儿"，
+      "type": 0，
       "api": "https://www.gdlsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*香奶儿资源",
-      "name": "*香奶儿资源",
-      "type": 0,
+      "key": "*香奶儿资源"，
+      "name": "*香奶儿资源"，
+      "type": 0，
       "api": "https://www.gdlsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*KK写真资源",
-      "name": "*KK写真资源",
-      "type": 1,
+      "key": "*KK写真资源"，
+      "name": "*KK写真资源"，
+      "type": 1，
       "api": "https://kkzy.me/api.php/provide/vod/"
-    },
+    }，
     {
-      "key": "maozyapi",
-      "name": "*色猫",
-      "type": 0,
-      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
+      "key": "maozyapi"，
+      "name": "*色猫"，
+      "type": 0，
+      "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/"，
       "playUrl": "https://jx.kujiexi.net/m3u8.php?url="
     }
-  ],
+  ]，
   "doh": [
     {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
+      "name": "Google"，
+      "url": "https://dns.google/dns-query"，
       "ips": [
-        "8.8.4.4",
+        "8.8.4.4"，
         "8.8.8.8"
       ]
-    },
+    }，
     {
-      "name": "Cloudflare",
-      "url": "https://cloudflare-dns.com/dns-query",
+      "name": "Cloudflare"，
+      "url": "https://cloudflare-dns.com/dns-query"，
       "ips": [
-        "1.1.1.1",
-        "1.0.0.1",
-        "2606:4700:4700::1111",
+        "1.1.1.1"，
+        "1.0.0.1"，
+        "2606:4700:4700::1111"，
         "2606:4700:4700::1001"
       ]
-    },
+    }，
     {
-      "name": "AdGuard",
-      "url": "https://dns.adguard.com/dns-query",
+      "name": "AdGuard"，
+      "url": "https://dns.adguard.com/dns-query"，
       "ips": [
-        "94.140.14.140",
+        "94.140.14.140"，
         "94.140.14.141"
       ]
-    },
+    }，
     {
-      "name": "DNSWatch",
-      "url": "https://resolver2.dns.watch/dns-query",
+      "name": "DNSWatch"，
+      "url": "https://resolver2.dns.watch/dns-query"，
       "ips": [
-        "84.200.69.80",
+        "84.200.69.80"，
         "84.200.70.40"
       ]
-    },
+    }，
     {
-      "name": "Quad9",
-      "url": "https://dns.quad9.net/dns-quer",
+      "name": "Quad9"，
+      "url": "https://dns.quad9.net/dns-quer"，
       "ips": [
-        "9.9.9.9",
+        "9.9.9.9"，
         "149.112.112.112"
       ]
     }
-  ],
+  ]，
   "rules": [
     {
-      "name": "kk",
+      "name": "kk"，
       "hosts": [
         "kuaikan"
-      ],
+      ]，
       "regex": [
-        "5",
-        "20.123",
-        "20.167",
+        "5"，
+        "20.123"，
+        "20.167"，
         "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
       ]
-    },
+    }，
     {
-      "name": "yqk",
+      "name": "yqk"，
       "hosts": [
         "yqk"
-      ],
+      ]，
       "regex": [
-        "18.4",
-        "15.1666",
+        "18.4"，
+        "15.1666"，
         "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
       ]
-    },
+    }，
     {
-      "name": "sn",
+      "name": "sn"，
       "hosts": [
         "suonizy"
-      ],
+      ]，
       "regex": [
-        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
-        "15.1666",
-        "15.2666",
-        "16.3333",
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+"，
+        "15.1666"，
+        "15.2666"，
+        "16.3333"，
         "15.266667"
       ]
-    },
+    }，
     {
-      "name": "bf",
+      "name": "bf"，
       "hosts": [
         "bfzy"
-      ],
+      ]，
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
       ]
-    },
+    }，
     {
       "name": "xx",
       "hosts": [
@@ -807,63 +807,63 @@
         "25.1",
         "25.1999"
       ]
-    },
+    }，
     {
-      "name": "hs",
+      "name": "hs"，
       "hosts": [
         "huoshan.com"
-      ],
+      ]，
       "regex": [
         "item_id="
       ]
-    },
+    }，
     {
-      "name": "dy",
+      "name": "dy"，
       "hosts": [
         "douyin.com"
-      ],
+      ]，
       "regex": [
         "is_play_url="
       ]
-    },
+    }，
     {
-      "name": "nm",
+      "name": "nm"，
       "hosts": [
         "toutiaovod.com"
-      ],
+      ]，
       "regex": [
         "video/tos/cn"
       ]
-    },
+    }，
     {
-      "name": "cl",
+      "name": "cl"，
       "hosts": [
         "magnet"
-      ],
+      ]，
       "regex": [
-        "最 新",
-        "直 播",
+        "最 新"，
+        "直 播"，
         "更 新"
       ]
     }
-  ],
+  ]，
   "lives": [
     {
-      "name": "atsushi",
-      "type": 0,
-      "playerType": 1,
+      "name": "atsushi"，
+      "type": 0，
+      "playerType": 1，
       "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"
-    },
+    }，
     {
-      "name": "三级片",
-      "type": 0,
-      "playerType": 1,
+      "name": "三级片"，
+      "type": 0，
+      "playerType": 1，
       "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/sjdy.txt"
-    },
+    }，
     {
-      "name": "小武哥",
-      "type": 0,
-      "playerType": 1,
+      "name": "小武哥"，
+      "type": 0，
+      "playerType": 1，
       "url": "https://qu.ax/PEHy.txt"
     }
   ]
