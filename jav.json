@@ -1,65 +1,65 @@
 {
-  "spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
-  "wallpaper": "https://gao.chuqiuyu.workers.dev",
+  "spider": "./jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485"，
+  "wallpaper": "https://gao.chuqiuyu.workers.dev"，
   "sites": [
     
     {
-      "key": "XMVideo",
-      "name": "🔞熊猫视频┃珍惜",
-      "type": 3,
+      "key": "XMVideo"，
+      "name": "🔞熊猫视频┃珍惜"，
+      "type": 3，
       "api": "csp_XMVideo"
-    },
+    }，
     {
-      "key": "Cg51",
-      "name": "🔞51吃瓜┃图密√",
-      "type": 3,
+      "key": "Cg51"，
+      "name": "🔞51吃瓜┃图密√"，
+      "type": 3，
       "api": "csp_Cg51"
-    },
+    }，
     {
-      "key": "MiMei",
-      "name": "🔞迷妹┃珍惜",
-      "type": 3,
+      "key": "MiMei"，
+      "name": "🔞迷妹┃珍惜"，
+      "type": 3，
       "api": "csp_MiMei"
-    },
+    }，
     
     {
-      "key": "HiPianZhiBo",
-      "name": "🔞嗨片直播┃视频",
-      "type": 3,
+      "key": "HiPianZhiBo"，
+      "name": "🔞嗨片直播┃视频"，
+      "type": 3，
       "api": "csp_HiPianZhiBo"
-    },
+    }，
     
     {
-      "key": "美少女",
-      "name": "🔞美少女",
-      "type": 0,
+      "key": "美少女"，
+      "name": "🔞美少女"，
+      "type": 0，
       "api": "https://www.msnii.com/api/xml.php"
-    },
+    }，
     {
-      "key": "*淫水机资源",
-      "name": "🔞淫水机",
-      "type": 0,
+      "key": "*淫水机资源"，
+      "name": "🔞淫水机"，
+      "type": 0，
       "api": "https://www.xrbsp.com/api/xml.php"
-    },
+    }，
     {
-      "key": "zp100",
-      "name": "🔞乐播",
-      "type": 0,
+      "key": "zp100"，
+      "name": "🔞乐播"，
+      "type": 0，
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/"
-    },
+    }，
     {
-      "key": "zp123",
-      "name": "🔞色猫资源（慢）",
-      "type": 0,
+      "key": "zp123"，
+      "name": "🔞色猫资源（慢）"，
+      "type": 0，
       "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/"
-    },
+    }，
     {
-      "key": "*乐播资源",
-      "name": "🔞乐播资源",
-      "type": 1,
-      "api": "https://lbapi9.com/api.php/provide/vod/",
+      "key": "*乐播资源"，
+      "name": "🔞乐播资源"，
+      "type": 1，
+      "api": "https://lbapi9.com/api.php/provide/vod/"，
       "filterable": 0
-    },
+    }，
     {
       "key": "💞美少女资源💞",
       "name": "💞美少女资源💞",
