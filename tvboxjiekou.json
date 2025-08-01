@@ -1,8 +1,14 @@
-{
+{"spider": "./jar/fan.txt;md5;2452e3a72453e1e2305e9b66eae38fe5",
+  "lives": [
+    {"name": "fmm","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "live","type": 0,"url": "https://epg.pw/test_channels.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {"name": "ipv6","type": 0,"url": "./tvboxtv.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+  ],
+  "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
   "sites": [
     {
       "key": "liangzi",
-      "name": "Á¿×Ó×ÊÔ´",
+      "name": "é‡å­èµ„æº",
       "type": 0,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
       "searchable": 1,
@@ -11,7 +17,7 @@
     },
     {
       "key": "feifan",
-      "name": "·Ç·²×ÊÔ´",
+      "name": "éå‡¡èµ„æº",
       "type": 0,
       "api": "http://api.ffzyapi.com/api.php/provide/vod/from/feifan/at/xml/",
       "searchable": 1,
@@ -20,7 +26,7 @@
     },
     {
       "key": "heimuer",
-      "name": "ºÚÄ¾¶ú×ÊÔ´",
+      "name": "é»‘æœ¨è€³èµ„æº",
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -29,7 +35,7 @@
     },
     {
       "key": "ikun",
-      "name": "ikun×ÊÔ´",
+      "name": "ikunèµ„æº",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
@@ -38,7 +44,7 @@
     },
     {
       "key": "xinlang",
-      "name": "ĞÂÀË×ÊÔ´",
+      "name": "æ–°æµªèµ„æº",
       "type": 0,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -47,7 +53,7 @@
     },
     {
       "key": "huya",
-      "name": "»¢ÑÀ×ÊÔ´",
+      "name": "è™ç‰™èµ„æº",
       "type": 0,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hyyun/at/xml/",
       "searchable": 1,
@@ -57,10 +63,10 @@
   ],
   "lives": [
     {
-      "group": "×Ô¶¨Òå",
+      "group": "è‡ªå®šä¹‰",
       "channels": [
         {
-          "name": "Ö±²¥Ô´",
+          "name": "ç›´æ’­æº",
           "urls": [
             "about:blank"
           ]
@@ -70,7 +76,7 @@
   ],
   "parses": [
     {
-      "name": "½âÎö1",
+      "name": "è§£æ1",
       "type": 0,
       "url": "https://xxx.xxx?jx="
     }
@@ -89,7 +95,7 @@
   ],
   "ijk": [
     {
-      "group": "Èí½âÂë",
+      "group": "è½¯è§£ç ",
       "options": [
         {
           "category": 4,
@@ -169,7 +175,7 @@
       ]
     },
     {
-      "group": "Ó²½âÂë",
+      "group": "ç¡¬è§£ç ",
       "options": [
         {
           "category": 4,
