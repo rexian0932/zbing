@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "senlin",
-      "name": "É­ÁÖ×ÊÔ´",
+      "name": "æ£®æ—",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -11,7 +11,7 @@
     },
     {
       "key": "laosebi",
-      "name": "ÀÏÉ«±Æ×ÊÔ´",
+      "name": "è€è‰²é€¼",
       "type": 1,
       "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -20,7 +20,7 @@
     },
     {
       "key": "naixiangxiang",
-      "name": "ÄÌÏãÏã×ÊÔ´",
+      "name": "å¥¶é¦™é¦™",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -29,7 +29,7 @@
     },
     {
       "key": "115zy",
-      "name": "115×ÊÔ´",
+      "name": "115èµ„æº",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/at/json/?ac=list",
       "searchable": 1,
@@ -39,10 +39,10 @@
   ],
   "lives": [
     {
-      "group": "×Ô¶¨Òå",
+      "group": "è±ë•ï¥‹",
       "channels": [
         {
-          "name": "Ö±²¥Ô´",
+          "name": "æ®®êº„éƒ½",
           "urls": [
             "about:blank"
           ]
@@ -52,7 +52,7 @@
   ],
   "parses": [
     {
-      "name": "½âÎö1",
+      "name": "ì©é©•1",
       "type": 0,
       "url": "https://xxx.xxx?jx="
     }
@@ -71,7 +71,7 @@
   ],
   "ijk": [
     {
-      "group": "Èí½âÂë",
+      "group": "í¡ì©ì¯¤",
       "options": [
         {
           "category": 4,
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "group": "Ó²½âÂë",
+      "group": "è¢’ì©ì¯¤",
       "options": [
         {
           "category": 4,
@@ -290,4 +290,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+
 }
