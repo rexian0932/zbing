@@ -73,15 +73,6 @@
       "filterable": 1
     },
     {
-      "key": "yinshuiji",
-      "name": "淫水机资源",
-      "type": 1,
-      "api": "https://www.xrbsp.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "hsjy",
       "name": "黄色资源",
       "type": 1,
@@ -136,28 +127,10 @@
       "filterable": 1
     },
     {
-      "key": "juangav",
-      "name": "黄AV资源",
-      "type": 1,
-      "api": "https://www.pgxdy.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "shayu",
       "name": "鲨鱼资源",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "xiangnaier",
-      "name": "香奶儿资源",
-      "type": 1,
-      "api": "https://www.gdlsp.com/api/json.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -181,28 +154,10 @@
       "filterable": 1
     },
     {
-      "key": "meishaonv",
-      "name": "美少女资源",
-      "type": 1,
-      "api": "https://www.msnii.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "jingp",
       "name": "精品资源",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "baipiao",
-      "name": "白嫖资源",
-      "type": 1,
-      "api": "https://www.kxgav.com/api/json.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -479,4 +434,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+
 }
